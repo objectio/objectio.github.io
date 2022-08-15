@@ -7,6 +7,7 @@ author: Younji Kim
 2022년 8월 15일 Today I learned
 
 ## Table of contents
+- [Table of contents](#table-of-contents)
 - [github에서 fork 해제하기](#github에서-fork-해제하기)
 - [LF 관련 git 메세지](#LF-관련-git-메세지)
 - [CPP01-string](#CPP01-string)
