@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2022-08-16 01:14:52
 author: Younji Kim
 ---
 
