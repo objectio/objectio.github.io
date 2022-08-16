@@ -14,7 +14,7 @@ author: Younji Kim
 함수 포인터(function pointer)란? <br>
 프로그램에서 정의된 함수는 프로그램이 실행될 때 모두 메인 메모리에 적재된다. 이때 함수의 이름은 메모리 내에서 함수의 시작 주소를 가리키는 포인터 상수(constant pointer)가 된다. 이렇게 함수의 시작 주소를 가리키는 포인터 상수를 함수 포인터(function pointer)라고 부른다. <br>
 `포인터 상수(constant pointer)란 포인터 변수가 가리키고 있는 주소 값을 변경할 수 없는 포인터를 의미하며, 상수 포인터(pointer to constant)란 상수를 가리키는 포인터를 의미한다.`
-이후는 minitalk에 나왔던 포인터 상수의 프로토타입을 참고하여 작성하자..
+이후는 minitalk에 나왔던 포인터 상수의 프로토타입을 참고하여 작성하자..<br>
 출처 : http://tcpschool.com/cpp/cpp_function_pointer
 
 ## [switch문](#switch문)
