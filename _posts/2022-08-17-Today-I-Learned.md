@@ -49,3 +49,5 @@ int *ptr = new int;
 delete ptr;
 ptr = 0;   // now ptr is nullptr not dangling pointer
 ```
+
+출처 : https://boycoding.tistory.com/204
