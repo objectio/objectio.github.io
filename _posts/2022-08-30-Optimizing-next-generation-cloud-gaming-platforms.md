@@ -58,3 +58,4 @@ VR 분야에서 가장 많이 쓰이고 있는 렌더링 기법이다.
 표본화와 양자화 (http://www.ktword.co.kr/test/view/view.php?m_temp1=4399&id=138)
 
 엔트로피 코딩 (https://suyeon96.tistory.com/10)
+산술 부호화 (https://himbopsa.tistory.com/43)
