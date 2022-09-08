@@ -5,6 +5,9 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: today I learned
+    url: TIL
+
   - title: website
     url: https://www.abhinav.co
 
