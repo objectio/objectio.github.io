@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: til
 author: Younji Kim
 ---
 
