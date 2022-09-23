@@ -2,8 +2,7 @@ title: Objectio's TIL
 author: Abhinav Saxena
 url: https://objectio.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  개발자로서 컴퓨터 지식에 대해 알아가는 기쁨을 공유하는 곳입니다. <br>
-  fixing...
+  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. 
 
 permalink: /:slug
 
@@ -14,7 +13,7 @@ twitter:
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: objectio/moonwalk
+remote_theme: objectio/objectio.github.io
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
