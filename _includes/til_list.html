@@ -1,0 +1,12 @@
+{% if site.tils.size > 0 %}
+  <ul>
+    {% for til in site.tils %}
+      <li class="til-list-item">
+        <span class="home-date">
+          {{ til.date | date: site.theme_config.date_format }}»
+        </span>
+        <a href="{{ til.url | relative_url }}">{{ til.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
