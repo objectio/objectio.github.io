@@ -18,7 +18,7 @@
 * Easy to extend
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
 * Auto-generated share images for social media (using [Soopr](https://www.soopr.co))
-* Share & like buttons (using [Soopr](https://www.soopr.co))
+* Share & like buttons
 
 
 #### Lighthouse
