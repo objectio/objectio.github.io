@@ -2,8 +2,8 @@ title: Objectio's TIL
 author: objectio
 url: https://objectio.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my website! I have been recording portfolios and what I learned each days.
-  In home page that you see now, you can find my portfolio and old projects.
+  Welcome to my website! I have been recording portfolios and what I learned each days. |
+  In home page that you see now, you can find my portfolio and old projects. \n
   If you see my TIL posts, Click **today I learned** tab in navbar please.
   And you can also visit my dev blog clicking **dev blog** tab in navbar.
 
