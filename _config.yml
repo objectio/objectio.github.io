@@ -4,7 +4,7 @@ url: https://objectio.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   Welcome to my website! I have been recording portfolios and what I learned each days. <br>
   In home page that you see now, you can find my portfolio and old projects. <br>
-  If you see my TIL posts, Click **today I learned** tab in navbar please. ^n
+  If you see my TIL posts, Click **today I learned** tab in navbar please. <br>
   And you can also visit my dev blog clicking **dev blog** tab in navbar.
 
 permalink: /:slug
