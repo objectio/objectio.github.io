@@ -8,8 +8,8 @@ navbar_entries:
   - title: today I learned
     url: til
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: dev blog
+    url: https://objectio.tistory.com/
 
 project_entries:
   - title: Project 1
@@ -57,7 +57,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: objectio's homepage
     url: https://www.abhinav.co
 
   - title: twitter
