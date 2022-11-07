@@ -12,37 +12,37 @@ navbar_entries:
     url: https://objectio.tistory.com/
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Coex Decorating
+    url: https://github.com/Sophoses/Coex_Decorating
+    desc: This is a team entry work for 2021 metaverse developer contest. 
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Fill it!
+    url: https://github.com/Sophoses/Fill_It
+    desc: For supercent hypercasual game challenge. You can fill teddy bears by manipulating only two buttons!
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Cub3D
+    url: https://github.com/S0YKIM/Cub3d
+    desc: Simple first-person 3D game with raycasting.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: ECOVID-19
+    url: https://github.com/objectio/sfml-ECOVID-19
+    desc: For healthy earth, we must reduce disposables. This game reflects that.
+    # highlight: WIP
+
+  - title: Unreal game
+    url: 404.html
+    desc: For practice unreal engine.
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Zito's bizaar adventure
+    url: 
+    desc: 2020 소프트웨어 경진대회 출품작. 
+    # highlight: NEW
 
   - title: Cookie
     url: https://github.com/abhinavs/cookie
@@ -57,17 +57,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: objectio's homepage
-    url: https://www.abhinav.co
+  - title: profile
+    url: https://github.com/objectio
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/objectio_log
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/objectio
 
-  - title: feed
-    url: feed.xml
+  # - title: feed
+  #   url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
