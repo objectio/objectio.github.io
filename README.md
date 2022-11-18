@@ -78,7 +78,7 @@ The `home.yml` file accepts the following fields:
     - `url` is a relative or absolute link which this card can point to.
 
 
-### Pro tips
+### Pro tips..
 1. Moonwalk has 3 in-built layouts:
   - post - for content
   - blog - for listing blog posts
