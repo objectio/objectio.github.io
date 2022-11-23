@@ -1,4 +1,4 @@
-## moonwalk - a fast and minimalistic blog theme with clean dark mode
+## moonwalk : a fast and minimalistic blog theme with clean dark mode
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
 
@@ -34,7 +34,7 @@
 If you are installing Moonwalk on Windows, please note that you might have to use Ruby 3.0.x instead of Ruby 3.1.x - you can see Windows specific installation instructions [here](https://github.com/abhinavs/moonwalk/blob/master/moonwalk_on_windows.md)
 
 ## Starting Server
-`bin/start` - development server will start at http://127.0.0.1:4000
+`bin/start` - development server will start at http://127.0.0.1:4000 .
 
 ## Deployment
 Moonwalk can be easily deployed on all the cloud providers (AWS etc.), and on static website hosting services like Netlify & Vercel. You can also use this button to do one click deploy
@@ -78,7 +78,7 @@ The `home.yml` file accepts the following fields:
     - `url` is a relative or absolute link which this card can point to.
 
 
-### Pro tips
+### Pro tips..
 1. Moonwalk has 3 in-built layouts:
   - post - for content
   - blog - for listing blog posts
