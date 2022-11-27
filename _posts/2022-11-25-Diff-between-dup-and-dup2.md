@@ -33,3 +33,9 @@ GREP (standard input): input/output error
 파이프 잘못 연결해서 그런 거 같은데... 확실하진 않음.
 
 명령어 실행하기 전에 `ulimit -u 30` 먼저 실행해보기. 파이프 누수 따져보자.
+
+
+<br>
+
+#### reference
+https://reakwon.tistory.com/104
