@@ -8,7 +8,7 @@
 </h3>
 
 ## Features
-* Light & dark mode with theme switcher
+* Light & dark mode with theme switcher.
 * Vertical list, horizontal list, card list
 * Landing page with navbar, footer, portfolio
 * Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
