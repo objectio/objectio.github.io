@@ -8,6 +8,10 @@ author: Younji Kim
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [기본 개념](#기본-개념)
+- [nil 노드](#nil-노드)
+- [red black 트리의 속성](#red-black-트리의-속성)
+- [RB 트리는 어떻게 균형을 잡는가?](#rb-트리는-어떻게-균형을-잡는가)
+- [RB 트리의 삽입](#rb-트리의-삽입)
 
 ## [기본 개념](#기본-개념)
 - 레드 블랙 트리는 스스로 균형을 잡는다는 특징이 있다. 
@@ -22,7 +26,7 @@ author: Younji Kim
 - 레드 블랙 트리에서는 nil 노드는 값이 있는 노드와 동등하게 취급됨
 - RB 트리에서 모든 leaf 노드(자녀가 없는 노드)는 nil 노드가 된다.
 
-## [red black 트리의 속성](#속성)
+## [red black 트리의 속성](#red-black-트리의-속성)
 1. 모든 노드는 red 혹은 black
 2. 루트 노드는 무조건 black이다.
 3. 모든 nil(leaf) 노드는 black이다.
