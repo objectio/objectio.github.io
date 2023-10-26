@@ -12,9 +12,9 @@ navbar_entries:
     url: https://objectio.tistory.com/
 
 project_entries:
-  - title: Coex Decorating
+  - title: ArvisCalling
     url: https://github.com/Sophoses/Coex_Decorating
-    desc: This is a team entry work for 2021 metaverse developer contest. 
+    desc: Subtitle was Coex Decorating. This is a team-entry work for 2021 metaverse developer contest. 
 
   - title: Fill it!
     url: https://github.com/Sophoses/Fill_It
@@ -22,7 +22,11 @@ project_entries:
 
   - title: Cub3D
     url: https://github.com/S0YKIM/Cub3d
-    desc: Simple first-person 3D game with raycasting.
+    desc: First-person 3D game scene with raycasting.
+
+  - title: FellowFollow
+    url: https://github.com/FellowFollow
+    desc: Side-scrolling 2D game. Attack boss monsters and avoid obstacles!
 
   - title: ECOVID-19
     url: https://github.com/objectio/sfml-ECOVID-19
@@ -31,7 +35,7 @@ project_entries:
 
   - title: Unreal game
     url: 404.html
-    desc: For practice unreal engine.
+    desc: For practice unreal engine. This project is not yet.
     highlight: WIP
 
   # - title: Project 6
@@ -39,14 +43,14 @@ project_entries:
   #   desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Zito's bizaar adventure
-    url: 
-    desc: 2020 소프트웨어 경진대회 출품작. 
+#  - title: Zito's bizaar adventure
+#    url: 
+#    desc: 2020 소프트웨어 경진대회 출품작. 
     # highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Transpong
+    url: https://github.com/42trancendence/transpong
+    desc: This is a Single Page Application that you can play pong game with other players.
 
   - title: Moonwalk
     url: https://github.com/abhinavs/moonwalk
